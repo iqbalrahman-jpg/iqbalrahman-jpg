@@ -9,13 +9,13 @@ i am **Iqbal Rahman** (Fullstack Web Developer), Fresh Graduate from Diploma 3 *
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/iqbalrahman-dev/"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/main/assets/linkedin.png" alt="Iqbal Rahman | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/iqbalrahman-dev/"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/master/assets/linkedin.png" alt="Iqbal Rahman | LinkedIn" width="35px"/></a>
 
-<a href="https://instagram.com/iqbalee_r"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/main/assets/instagram.png" alt="Iqbal Rahman | Instagram" width="35px"/></a>
+<a href="https://instagram.com/iqbalee_r"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/master/assets/instagram.png" alt="Iqbal Rahman | Instagram" width="35px"/></a>
 
-<a href="https://www.facebook.com/iqbal.rahman.3154/"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/main/assets/facebook.png" alt="Iqbal Rahman | Facebook" width="35px"/></a>
+<a href="https://www.facebook.com/iqbal.rahman.3154/"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/master/assets/facebook.png" alt="Iqbal Rahman | Facebook" width="35px"/></a>
 
-<a href="mailto:iqbalrahman.amd@gmail.com"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/main/assets/gmail.png" alt="Iqbal rahman | Gmail" width="35px"/></a>
+<a href="mailto:iqbalrahman.amd@gmail.com"><img align="left" src="https://raw.githubusercontent.com/iqbalrahman-jpg/iqbalrahman-jpg/master/assets/gmail.png" alt="Iqbal rahman | Gmail" width="35px"/></a>
 
 </br>
 </br>
