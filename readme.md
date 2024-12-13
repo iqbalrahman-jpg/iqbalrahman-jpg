@@ -1,10 +1,10 @@
 ### Hi There 😊
 
-i am **Iqbal Rahman** (Fullstack Web Developer), Fresh Graduate from Diploma 3 **Politeknik Elektronika Negeri Surabaya - Indonesia** 
+i am **Iqbal Rahman** (iOS Developer), Diploma 3 on **Politeknik Elektronika Negeri Surabaya - Indonesia** 
 
-- 🔭 I’m currently working on Laravel 9 
-- 🌱 I’m currently learning Docker, React JS
-- 👯 I’m looking to be a Web Developer 
+- 🔭 I’m currently working on Swift
+- 🌱 I’m currently learning SwiftUI, Swift Toolkit, Combine
+- 👯 I’m looking to be a iOS Developer
 - 📫 How to reach me: 📱 iqbalrahman.amd@gmail.com.
 
 ## 🤝 Connect with me:
